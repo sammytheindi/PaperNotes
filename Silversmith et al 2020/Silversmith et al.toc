@@ -1,0 +1,9 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {0.1}Abstract}{1}{section.0.1}%
+\contentsline {section}{\numberline {0.2}Introduction}{1}{section.0.2}%
+\contentsline {section}{\numberline {0.3}Results}{1}{section.0.3}%
+\contentsline {subsection}{\numberline {0.3.1}How \( R^{2} \) is estimated for imagined cursor movements }{5}{subsection.0.3.1}%
+\contentsline {subsection}{\numberline {0.3.2}Decoder convergence comparison}{5}{subsection.0.3.2}%
+\contentsline {section}{\numberline {0.4}Methods}{6}{section.0.4}%
+\contentsline {subsection}{\numberline {0.4.1}Point-and-click task}{6}{subsection.0.4.1}%
+\contentsline {section}{\numberline {0.5}Kalman Filter as a BCI Decoder}{7}{section.0.5}%
